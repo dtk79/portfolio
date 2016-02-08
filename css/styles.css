@@ -16,15 +16,16 @@
 }
 
 .navbar-default {
-    background-color: #77B5FF;
+    background-color: #ffffff;
     border-color: #E7E7E7;
 }
 
 .navbar-default .navbar-brand {
-    color: #000000;
+    color: #ff7d77;
+    font-size: 24px;
 }
 .navbar-default .navbar-nav>li>a {
-    color: #000000;
+    color: #77B5FF;
 }
 
 .jumbotron {
@@ -34,4 +35,9 @@
     height: 100%;
     background-size: cover;
     overflow: hidden;
+}
+
+.hr {
+  width:100%;
+  border: 1px;
 }
